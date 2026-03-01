@@ -30,6 +30,8 @@
   - [🚀 Getting Started](#-getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
+- [1. Build the static export](#1-build-the-static-export)
+- [2. Commit and push to trigger auto-deploy](#2-commit-and-push-to-trigger-auto-deploy)
 
 ---
 
@@ -68,7 +70,7 @@ The website is fully **bilingual (English & Arabic)** with proper RTL/LTR layout
 ---
 
 ## 📁 Project Structure
-
+``` shell
 daamah-spare-parts/
 ├── .github/
 │ └── workflows/
@@ -93,7 +95,7 @@ daamah-spare-parts/
 ├── next.config.mjs # Static export config
 ├── tsconfig.json
 └── package.json
-
+```
 ---
 
 ## 🚀 Getting Started
@@ -119,6 +121,8 @@ npm install
 npm run dev
 
 Open http://localhost:3000 in your browser.
+
+````
 
 Available Scripts
 npm run dev        # Start development server (Turbopack)
