@@ -17,19 +17,19 @@ export default async function LangLayout({
   const seo = {
     en: {
       title:
-        'daamahh Spare Parts - Genuine & Aftermarket Parts for BMW, Mercedes, VW | UAE',
+        'daamahh Spare Parts - Genuine & Aftermarket Parts for BMW, Mercedes, VW | KSA',
       description:
-        'Premium spare parts for German cars in UAE. Specializing in BMW original and OEM components. Fast delivery across Dubai, Abu Dhabi, Sharjah.',
+        'Premium spare parts for German cars in |KSA. Specializing in BMW original and OEM components. Fast delivery across Dubai, Abu Dhabi, Sharjah.',
       keywords:
-        'BMW parts UAE, Mercedes spare parts, VW Volkswagen parts, German car parts Dubai, auto spare parts Abu Dhabi',
+        'BMW parts KSA, Mercedes spare parts, VW Volkswagen parts, German car parts Dubai, auto spare parts Abu Dhabi',
     },
     ar: {
       title:
-        'دعامة قطع غيار - قطع غيار أصلية وتجارية لبي إم دبليو، مرسيدس، فولكس فاجن | الإمارات',
+        'دعامة قطع غيار - قطع غيار أصلية وتجارية لبي إم دبليو، مرسيدس، فولكس فاجن | السعودية',
       description:
-        'قطع غيار فاخرة للسيارات الألمانية في الإمارات. متخصصون في قطع بي إم دبليو الأصلية والمعتمدة. توصيل سريع في دبي وأبوظبي والشارقة.',
+        'قطع غيار فاخرة للسيارات الألمانية في السعودية. متخصصون في قطع بي إم دبليو الأصلية والمعتمدة. توصيل سريع في الخبر الدمام السعودية.',
       keywords:
-        'قطع غيار بي ام دبليو الإمارات, مرسيدس قطع غيار, فولكس فاجن قطع غيار, قطع غيار سيارات ألمانية دبي',
+        'قطع غيار بي ام دبليو الالسعودية, مرسيدس قطع غيار, فولكس فاجن قطع غيار, قطع غيار سيارات ألمانية الخبر',
     },
   };
 
